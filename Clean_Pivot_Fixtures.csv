@@ -1,0 +1,529 @@
+Season,Competition Group,Competition,Week Date,Fixture Location,Time of Match,Team_Role,Team,Opponent,Team_Score,Opponent_Score,Result
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-15,Surbiton HC - Pitch 2,11:15,Home,Surbiton W3,Hampstead & Westminster W3,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-15,Surbiton HC - Pitch 2,11:15,Away,Hampstead & Westminster W3,Surbiton W3,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-15,Whitefields School - Pitch 1,12:15,Home,West Hampstead W1,Barnes W2,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-15,Whitefields School - Pitch 1,12:15,Away,Barnes W2,West Hampstead W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-15,Battersea Park - Far Pitch,13:30,Home,Wanderers W1,Wimbledon W3,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-15,Battersea Park - Far Pitch,13:30,Away,Wimbledon W3,Wanderers W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-15,Alleyns School,13:30,Home,Tulse Hill & Dulwich W1,Surbiton Sparks,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-15,Alleyns School,13:30,Away,Surbiton Sparks,Tulse Hill & Dulwich W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-15,Kings House Sports Ground,13:30,Home,London Wayfarers W2,Old Cranleighan W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-15,Kings House Sports Ground,13:30,Away,Old Cranleighan W1,London Wayfarers W2,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-15,Southgate Hockey Centre Pitch 1,15:00,Home,Southgate W2,PHC Chiswick W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-15,Southgate Hockey Centre Pitch 1,15:00,Away,PHC Chiswick W1,Southgate W2,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-21,Dukes Meadow pitch,Completed,Home,Barnes W2,Wimbledon W3,5.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-21,Dukes Meadow pitch,Completed,Away,Wimbledon W3,Barnes W2,0.0,5.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-21,Paddington Recreation Ground,Completed,Home,Hampstead & Westminster W3,PHC Chiswick W1,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-21,Paddington Recreation Ground,Completed,Away,PHC Chiswick W1,Hampstead & Westminster W3,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-21,Alleyns School,Completed,Home,Tulse Hill & Dulwich W1,Southgate W2,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-21,Alleyns School,Completed,Away,Southgate W2,Tulse Hill & Dulwich W1,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-21,Surbiton HC - Pitch 1,Completed,Home,Surbiton Sparks,Wanderers W1,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-21,Surbiton HC - Pitch 1,Completed,Away,Wanderers W1,Surbiton Sparks,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-21,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,Surbiton W3,2.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-21,Old Cranleighan Sports Club,Completed,Away,Surbiton W3,Old Cranleighan W1,3.0,2.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-21,Kings House Sports Ground,Completed,Home,London Wayfarers W2,West Hampstead W1,0.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-21,Kings House Sports Ground,Completed,Away,West Hampstead W1,London Wayfarers W2,3.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-28,Raynes Park High School,Completed,Home,Wimbledon W3,Old Cranleighan W1,1.0,5.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-28,Raynes Park High School,Completed,Away,Old Cranleighan W1,Wimbledon W3,5.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-28,Whitefields School - Pitch 1,Completed,Home,West Hampstead W1,Hampstead & Westminster W3,3.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-28,Whitefields School - Pitch 1,Completed,Away,Hampstead & Westminster W3,West Hampstead W1,0.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-28,Battersea Park - Far Pitch,Completed,Home,Wanderers W1,Tulse Hill & Dulwich W1,3.0,3.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-28,Battersea Park - Far Pitch,Completed,Away,Tulse Hill & Dulwich W1,Wanderers W1,3.0,3.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-28,Surbiton HC - Pitch 2,Completed,Home,Surbiton W3,Surbiton Sparks,1.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-28,Surbiton HC - Pitch 2,Completed,Away,Surbiton Sparks,Surbiton W3,3.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-28,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,London Wayfarers W2,0.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-28,Southgate Hockey Centre Pitch 1,Completed,Away,London Wayfarers W2,Southgate W2,2.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-28,Latymer Upper School,Completed,Home,PHC Chiswick W1,Barnes W2,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-09-28,Latymer Upper School,Completed,Away,Barnes W2,PHC Chiswick W1,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-05,Dukes Meadow pitch,Completed,Home,Barnes W2,Hampstead & Westminster W3,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-05,Dukes Meadow pitch,Completed,Away,Hampstead & Westminster W3,Barnes W2,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-05,Alleyns School,Completed,Home,Tulse Hill & Dulwich W1,Surbiton W3,4.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-05,Alleyns School,Completed,Away,Surbiton W3,Tulse Hill & Dulwich W1,0.0,4.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-05,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,West Hampstead W1,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-05,Southgate Hockey Centre Pitch 1,Completed,Away,West Hampstead W1,Southgate W2,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-05,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,PHC Chiswick W1,3.0,3.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-05,Old Cranleighan Sports Club,Completed,Away,PHC Chiswick W1,Old Cranleighan W1,3.0,3.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-05,Raynes Park High School,Completed,Home,Wimbledon W3,Surbiton Sparks,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-05,Raynes Park High School,Completed,Away,Surbiton Sparks,Wimbledon W3,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-05,Kings House Sports Ground,Completed,Home,London Wayfarers W2,Wanderers W1,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-05,Kings House Sports Ground,Completed,Away,Wanderers W1,London Wayfarers W2,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-12,Surbiton HC - Pitch 2,Completed,Home,Surbiton W3,London Wayfarers W2,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-12,Surbiton HC - Pitch 2,Completed,Away,London Wayfarers W2,Surbiton W3,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-12,Raynes Park High School,Completed,Home,Wimbledon W3,Tulse Hill & Dulwich W1,1.0,4.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-12,Raynes Park High School,Completed,Away,Tulse Hill & Dulwich W1,Wimbledon W3,4.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-12,Dukes Meadow pitch,Completed,Home,Barnes W2,Old Cranleighan W1,4.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-12,Dukes Meadow pitch,Completed,Away,Old Cranleighan W1,Barnes W2,0.0,4.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-12,Kennington Park,Completed,Home,Wanderers W1,West Hampstead W1,0.0,4.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-12,Kennington Park,Completed,Away,West Hampstead W1,Wanderers W1,4.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-12,Paddington Recreation Ground,Completed,Home,Hampstead & Westminster W3,Southgate W2,0.0,4.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-12,Paddington Recreation Ground,Completed,Away,Southgate W2,Hampstead & Westminster W3,4.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-12,Latymer Upper School,Completed,Home,PHC Chiswick W1,Surbiton Sparks,2.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-12,Latymer Upper School,Completed,Away,Surbiton Sparks,PHC Chiswick W1,3.0,2.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-19,Alleyns School,Completed,Home,Tulse Hill & Dulwich W1,PHC Chiswick W1,2.0,4.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-19,Alleyns School,Completed,Away,PHC Chiswick W1,Tulse Hill & Dulwich W1,4.0,2.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-19,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,Wanderers W1,2.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-19,Southgate Hockey Centre Pitch 1,Completed,Away,Wanderers W1,Southgate W2,0.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-19,Whitefields School - Pitch 1,Completed,Home,West Hampstead W1,Surbiton W3,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-19,Whitefields School - Pitch 1,Completed,Away,Surbiton W3,West Hampstead W1,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-19,Surbiton HC - Pitch 2,Completed,Home,Surbiton Sparks,Barnes W2,0.0,4.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-19,Surbiton HC - Pitch 2,Completed,Away,Barnes W2,Surbiton Sparks,4.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-19,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,Hampstead & Westminster W3,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-19,Old Cranleighan Sports Club,Completed,Away,Hampstead & Westminster W3,Old Cranleighan W1,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-19,Kennington Park,Completed,Home,London Wayfarers W2,Wimbledon W3,4.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-10-19,Kennington Park,Completed,Away,Wimbledon W3,London Wayfarers W2,1.0,4.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-02,Dukes Meadow pitch,Completed,Home,Barnes W2,Tulse Hill & Dulwich W1,3.0,2.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-02,Dukes Meadow pitch,Completed,Away,Tulse Hill & Dulwich W1,Barnes W2,2.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-02,Surbiton HC - Pitch 1,Completed,Home,Surbiton W3,Southgate W2,0.0,1.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-02,Surbiton HC - Pitch 1,Completed,Away,Southgate W2,Surbiton W3,1.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-02,Mallinson Sports Centre,Completed,Home,Hampstead & Westminster W3,Wanderers W1,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-02,Mallinson Sports Centre,Completed,Away,Wanderers W1,Hampstead & Westminster W3,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-02,Raynes Park High School,Completed,Home,Wimbledon W3,West Hampstead W1,0.0,4.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-02,Raynes Park High School,Completed,Away,West Hampstead W1,Wimbledon W3,4.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-02,Latymer Upper School,Completed,Home,PHC Chiswick W1,London Wayfarers W2,2.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-02,Latymer Upper School,Completed,Away,London Wayfarers W2,PHC Chiswick W1,3.0,2.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-02,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,Surbiton Sparks,0.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-02,Old Cranleighan Sports Club,Completed,Away,Surbiton Sparks,Old Cranleighan W1,2.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-09,Kings House Sports Ground,Completed,Home,London Wayfarers W2,Barnes W2,3.0,2.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-09,Kings House Sports Ground,Completed,Away,Barnes W2,London Wayfarers W2,2.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-09,Alleyns School,Completed,Home,Tulse Hill & Dulwich W1,Old Cranleighan W1,3.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-09,Alleyns School,Completed,Away,Old Cranleighan W1,Tulse Hill & Dulwich W1,1.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-09,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,Wimbledon W3,2.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-09,Southgate Hockey Centre Pitch 1,Completed,Away,Wimbledon W3,Southgate W2,0.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-09,Battersea Park - Far Pitch,Completed,Home,Wanderers W1,Surbiton W3,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-09,Battersea Park - Far Pitch,Completed,Away,Surbiton W3,Wanderers W1,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-09,Whitefields School - Pitch 1,Completed,Home,West Hampstead W1,PHC Chiswick W1,7.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-09,Whitefields School - Pitch 1,Completed,Away,PHC Chiswick W1,West Hampstead W1,1.0,7.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-09,Surbiton HC - Pitch 1,Completed,Home,Surbiton Sparks,Hampstead & Westminster W3,2.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-09,Surbiton HC - Pitch 1,Completed,Away,Hampstead & Westminster W3,Surbiton Sparks,3.0,2.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-16,Raynes Park High School,Completed,Home,Wimbledon W3,Wanderers W1,4.0,2.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-16,Raynes Park High School,Completed,Away,Wanderers W1,Wimbledon W3,2.0,4.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-16,Surbiton HC - Pitch 2,Completed,Home,Surbiton Sparks,Tulse Hill & Dulwich W1,2.0,2.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-16,Surbiton HC - Pitch 2,Completed,Away,Tulse Hill & Dulwich W1,Surbiton Sparks,2.0,2.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-16,Dukes Meadow pitch,Completed,Home,Barnes W2,West Hampstead W1,1.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-16,Dukes Meadow pitch,Completed,Away,West Hampstead W1,Barnes W2,0.0,1.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-16,Liverpool Victoria Sports Ground,Completed,Home,PHC Chiswick W1,Southgate W2,3.0,4.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-16,Liverpool Victoria Sports Ground,Completed,Away,Southgate W2,PHC Chiswick W1,4.0,3.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-16,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,London Wayfarers W2,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-16,Old Cranleighan Sports Club,Completed,Away,London Wayfarers W2,Old Cranleighan W1,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-16,Mill Hill School,Completed,Home,Hampstead & Westminster W3,Surbiton W3,3.0,2.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-16,Mill Hill School,Completed,Away,Surbiton W3,Hampstead & Westminster W3,2.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-23,Whitefields School - Pitch 1,Completed,Home,West Hampstead W1,Old Cranleighan W1,4.0,2.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-23,Whitefields School - Pitch 1,Completed,Away,Old Cranleighan W1,West Hampstead W1,2.0,4.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-23,Kings House Sports Ground,Completed,Home,London Wayfarers W2,Surbiton Sparks,4.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-23,Kings House Sports Ground,Completed,Away,Surbiton Sparks,London Wayfarers W2,1.0,4.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-23,Alleyns School,Completed,Home,Tulse Hill & Dulwich W1,Hampstead & Westminster W3,2.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-23,Alleyns School,Completed,Away,Hampstead & Westminster W3,Tulse Hill & Dulwich W1,0.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-23,Battersea Park - Far Pitch,Completed,Home,Wanderers W1,PHC Chiswick W1,2.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-23,Battersea Park - Far Pitch,Completed,Away,PHC Chiswick W1,Wanderers W1,0.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-23,Surbiton HC - Pitch 2,Completed,Home,Surbiton W3,Wimbledon W3,2.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-23,Surbiton HC - Pitch 2,Completed,Away,Wimbledon W3,Surbiton W3,0.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-23,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,Barnes W2,1.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-23,Southgate Hockey Centre Pitch 1,Completed,Away,Barnes W2,Southgate W2,0.0,1.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-30,Dukes Meadow pitch,Completed,Home,Barnes W2,Wanderers W1,5.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-30,Dukes Meadow pitch,Completed,Away,Wanderers W1,Barnes W2,1.0,5.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-30,Alleyns School,Completed,Home,Tulse Hill & Dulwich W1,London Wayfarers W2,3.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-30,Alleyns School,Completed,Away,London Wayfarers W2,Tulse Hill & Dulwich W1,1.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-30,Whitefields School - Pitch 1,Completed,Home,West Hampstead W1,Surbiton Sparks,2.0,2.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-30,Whitefields School - Pitch 1,Completed,Away,Surbiton Sparks,West Hampstead W1,2.0,2.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-30,Latymer Upper School,Completed,Home,PHC Chiswick W1,Surbiton W3,0.0,7.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-30,Latymer Upper School,Completed,Away,Surbiton W3,PHC Chiswick W1,7.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-30,Paddington Recreation Ground,Completed,Home,Hampstead & Westminster W3,Wimbledon W3,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-30,Paddington Recreation Ground,Completed,Away,Wimbledon W3,Hampstead & Westminster W3,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-30,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,Southgate W2,1.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-11-30,Old Cranleighan Sports Club,Completed,Away,Southgate W2,Old Cranleighan W1,3.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-12-07,Raynes Park High School,Completed,Home,Wimbledon W3,PHC Chiswick W1,0.0,1.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-12-07,Raynes Park High School,Completed,Away,PHC Chiswick W1,Wimbledon W3,1.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-12-07,Whitefields School - Pitch 1,Completed,Home,West Hampstead W1,Tulse Hill & Dulwich W1,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-12-07,Whitefields School - Pitch 1,Completed,Away,Tulse Hill & Dulwich W1,West Hampstead W1,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-12-07,Kings House Sports Ground,Completed,Home,London Wayfarers W2,Hampstead & Westminster W3,1.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-12-07,Kings House Sports Ground,Completed,Away,Hampstead & Westminster W3,London Wayfarers W2,0.0,1.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-12-07,Kennington Park,Completed,Home,Wanderers W1,Old Cranleighan W1,4.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-12-07,Kennington Park,Completed,Away,Old Cranleighan W1,Wanderers W1,1.0,4.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-12-07,Surbiton High School,Completed,Home,Surbiton W3,Barnes W2,1.0,4.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-12-07,Surbiton High School,Completed,Away,Barnes W2,Surbiton W3,4.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-12-07,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,Surbiton Sparks,1.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-12-07,Southgate Hockey Centre Pitch 1,Completed,Away,Surbiton Sparks,Southgate W2,0.0,1.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-18,Whitefields School - Pitch 1,Completed,Home,West Hampstead W1,London Wayfarers W2,0.0,6.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-18,Whitefields School - Pitch 1,Completed,Away,London Wayfarers W2,West Hampstead W1,6.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-18,Battersea Park - Far Pitch,Completed,Home,Wanderers W1,Surbiton Sparks,0.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-18,Battersea Park - Far Pitch,Completed,Away,Surbiton Sparks,Wanderers W1,2.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-18,Latymer Upper School,Completed,Home,PHC Chiswick W1,Hampstead & Westminster W3,2.0,2.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-18,Latymer Upper School,Completed,Away,Hampstead & Westminster W3,PHC Chiswick W1,2.0,2.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-18,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,Tulse Hill & Dulwich W1,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-18,Southgate Hockey Centre Pitch 1,Completed,Away,Tulse Hill & Dulwich W1,Southgate W2,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-18,Raynes Park High School,Completed,Home,Wimbledon W3,Barnes W2,2.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-18,Raynes Park High School,Completed,Away,Barnes W2,Wimbledon W3,3.0,2.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-18,Surbiton HC - Pitch 1,Completed,Home,Surbiton W3,Old Cranleighan W1,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-18,Surbiton HC - Pitch 1,Completed,Away,Old Cranleighan W1,Surbiton W3,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-25,Kings House Sports Ground,Completed,Home,London Wayfarers W2,Southgate W2,1.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-25,Kings House Sports Ground,Completed,Away,Southgate W2,London Wayfarers W2,3.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-25,Alleyns School,Completed,Home,Tulse Hill & Dulwich W1,Wanderers W1,7.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-25,Alleyns School,Completed,Away,Wanderers W1,Tulse Hill & Dulwich W1,1.0,7.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-25,Surbiton HC - Pitch 1,Completed,Home,Surbiton Sparks,Surbiton W3,5.0,3.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-25,Surbiton HC - Pitch 1,Completed,Away,Surbiton W3,Surbiton Sparks,3.0,5.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-25,Dukes Meadow pitch,Completed,Home,Barnes W2,PHC Chiswick W1,5.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-25,Dukes Meadow pitch,Completed,Away,PHC Chiswick W1,Barnes W2,0.0,5.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-25,Mill Hill School,Completed,Home,Hampstead & Westminster W3,West Hampstead W1,4.0,2.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-25,Mill Hill School,Completed,Away,West Hampstead W1,Hampstead & Westminster W3,2.0,4.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-25,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,Wimbledon W3,0.0,0.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-01-25,Old Cranleighan Sports Club,Completed,Away,Wimbledon W3,Old Cranleighan W1,0.0,0.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-01,Paddington Recreation Ground,Completed,Home,Hampstead & Westminster W3,Barnes W2,0.0,4.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-01,Paddington Recreation Ground,Completed,Away,Barnes W2,Hampstead & Westminster W3,4.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-01,Kennington Park,Completed,Home,Wanderers W1,London Wayfarers W2,2.0,2.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-01,Kennington Park,Completed,Away,London Wayfarers W2,Wanderers W1,2.0,2.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-01,Surbiton HC - Pitch 2,Completed,Home,Surbiton W3,Tulse Hill & Dulwich W1,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-01,Surbiton HC - Pitch 2,Completed,Away,Tulse Hill & Dulwich W1,Surbiton W3,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-01,Whitefields School - Pitch 1,Completed,Home,West Hampstead W1,Southgate W2,0.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-01,Whitefields School - Pitch 1,Completed,Away,Southgate W2,West Hampstead W1,3.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-01,Surbiton HC - Pitch 2,Completed,Home,Surbiton Sparks,Wimbledon W3,5.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-01,Surbiton HC - Pitch 2,Completed,Away,Wimbledon W3,Surbiton Sparks,0.0,5.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-01,Latymer Upper School,Completed,Home,PHC Chiswick W1,Old Cranleighan W1,3.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-01,Latymer Upper School,Completed,Away,Old Cranleighan W1,PHC Chiswick W1,1.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-08,Whitefields School - Pitch 1,Completed,Home,West Hampstead W1,Wanderers W1,2.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-08,Whitefields School - Pitch 1,Completed,Away,Wanderers W1,West Hampstead W1,3.0,2.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-08,Alleyns School,Completed,Home,Tulse Hill & Dulwich W1,Wimbledon W3,2.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-08,Alleyns School,Completed,Away,Wimbledon W3,Tulse Hill & Dulwich W1,0.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-08,Kings House Sports Ground,Completed,Home,London Wayfarers W2,Surbiton W3,3.0,2.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-08,Kings House Sports Ground,Completed,Away,Surbiton W3,London Wayfarers W2,2.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-08,Surbiton HC - Pitch 2,Completed,Home,Surbiton Sparks,PHC Chiswick W1,6.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-08,Surbiton HC - Pitch 2,Completed,Away,PHC Chiswick W1,Surbiton Sparks,0.0,6.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-08,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,Hampstead & Westminster W3,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-08,Southgate Hockey Centre Pitch 1,Completed,Away,Hampstead & Westminster W3,Southgate W2,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-08,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,Barnes W2,3.0,5.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-08,Old Cranleighan Sports Club,Completed,Away,Barnes W2,Old Cranleighan W1,5.0,3.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-22,Paddington Recreation Ground,Completed,Home,Hampstead & Westminster W3,Old Cranleighan W1,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-22,Paddington Recreation Ground,Completed,Away,Old Cranleighan W1,Hampstead & Westminster W3,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-22,Surbiton HC - Pitch 2,Completed,Home,Surbiton W3,West Hampstead W1,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-22,Surbiton HC - Pitch 2,Completed,Away,West Hampstead W1,Surbiton W3,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-22,Dukes Meadow pitch,Completed,Home,Barnes W2,Surbiton Sparks,6.0,3.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-22,Dukes Meadow pitch,Completed,Away,Surbiton Sparks,Barnes W2,3.0,6.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-22,Raynes Park High School,Completed,Home,Wimbledon W3,London Wayfarers W2,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-22,Raynes Park High School,Completed,Away,London Wayfarers W2,Wimbledon W3,1.0,1.0,Draw
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-22,Latymer Upper School,Completed,Home,PHC Chiswick W1,Tulse Hill & Dulwich W1,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-22,Latymer Upper School,Completed,Away,Tulse Hill & Dulwich W1,PHC Chiswick W1,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-22,Battersea Park - Far Pitch,Completed,Home,Wanderers W1,Southgate W2,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-02-22,Battersea Park - Far Pitch,Completed,Away,Southgate W2,Wanderers W1,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-01,Kings House Sports Ground,Completed,Home,London Wayfarers W2,PHC Chiswick W1,2.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-01,Kings House Sports Ground,Completed,Away,PHC Chiswick W1,London Wayfarers W2,0.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-01,Kennington Park,Completed,Home,Wanderers W1,Hampstead & Westminster W3,2.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-01,Kennington Park,Completed,Away,Hampstead & Westminster W3,Wanderers W1,3.0,2.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-01,Whitefields School - Pitch 1,Completed,Home,West Hampstead W1,Wimbledon W3,5.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-01,Whitefields School - Pitch 1,Completed,Away,Wimbledon W3,West Hampstead W1,0.0,5.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-01,Alleyns School,Completed,Home,Tulse Hill & Dulwich W1,Barnes W2,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-01,Alleyns School,Completed,Away,Barnes W2,Tulse Hill & Dulwich W1,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-01,Surbiton HC - Pitch 1,Completed,Home,Surbiton Sparks,Old Cranleighan W1,6.0,5.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-01,Surbiton HC - Pitch 1,Completed,Away,Old Cranleighan W1,Surbiton Sparks,5.0,6.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-01,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,Surbiton W3,3.0,0.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-01,Southgate Hockey Centre Pitch 1,Completed,Away,Surbiton W3,Southgate W2,0.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-08,Dukes Meadow pitch,Completed,Home,Barnes W2,London Wayfarers W2,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-08,Dukes Meadow pitch,Completed,Away,London Wayfarers W2,Barnes W2,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-08,Surbiton HC - Pitch 1,Completed,Home,Surbiton W3,Wanderers W1,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-08,Surbiton HC - Pitch 1,Completed,Away,Wanderers W1,Surbiton W3,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-08,Raynes Park High School,Completed,Home,Wimbledon W3,Southgate W2,1.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-08,Raynes Park High School,Completed,Away,Southgate W2,Wimbledon W3,3.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-08,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,Tulse Hill & Dulwich W1,3.0,2.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-08,Old Cranleighan Sports Club,Completed,Away,Tulse Hill & Dulwich W1,Old Cranleighan W1,2.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-08,Latymer Upper School,Completed,Home,PHC Chiswick W1,West Hampstead W1,1.0,2.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-08,Latymer Upper School,Completed,Away,West Hampstead W1,PHC Chiswick W1,2.0,1.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-08,Mill Hill School,Completed,Home,Hampstead & Westminster W3,Surbiton Sparks,3.0,2.0,Win
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-08,Mill Hill School,Completed,Away,Surbiton Sparks,Hampstead & Westminster W3,2.0,3.0,Loss
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-22,Dukes Meadow pitch,11:30,Home,Barnes W2,Southgate W2,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-22,Dukes Meadow pitch,11:30,Away,Southgate W2,Barnes W2,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-22,Paddington Recreation Ground,11:45,Home,Hampstead & Westminster W3,Tulse Hill & Dulwich W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-22,Paddington Recreation Ground,11:45,Away,Tulse Hill & Dulwich W1,Hampstead & Westminster W3,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-22,Raynes Park High School,14:10,Home,Wimbledon W3,Surbiton W3,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-22,Raynes Park High School,14:10,Away,Surbiton W3,Wimbledon W3,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-22,Old Cranleighan Sports Club,14:30,Home,Old Cranleighan W1,West Hampstead W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-22,Old Cranleighan Sports Club,14:30,Away,West Hampstead W1,Old Cranleighan W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-22,Latymer Upper School,14:30,Home,PHC Chiswick W1,Wanderers W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-22,Latymer Upper School,14:30,Away,Wanderers W1,PHC Chiswick W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-22,Surbiton HC - Pitch 1,16:00,Home,Surbiton Sparks,London Wayfarers W2,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-22,Surbiton HC - Pitch 1,16:00,Away,London Wayfarers W2,Surbiton Sparks,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-29,Raynes Park High School,12:00,Home,Wimbledon W3,Hampstead & Westminster W3,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-29,Raynes Park High School,12:00,Away,Hampstead & Westminster W3,Wimbledon W3,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-29,Kings House Sports Ground,12:00,Home,London Wayfarers W2,Tulse Hill & Dulwich W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-29,Kings House Sports Ground,12:00,Away,Tulse Hill & Dulwich W1,London Wayfarers W2,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-29,Surbiton High School,13:30,Home,Surbiton Sparks,West Hampstead W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-29,Surbiton High School,13:30,Away,West Hampstead W1,Surbiton Sparks,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-29,Kennington Park,13:30,Home,Wanderers W1,Barnes W2,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-29,Kennington Park,13:30,Away,Barnes W2,Wanderers W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-29,Surbiton HC - Pitch 2,14:15,Home,Surbiton W3,PHC Chiswick W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-29,Surbiton HC - Pitch 2,14:15,Away,PHC Chiswick W1,Surbiton W3,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-29,Southgate Hockey Centre Pitch 1,15:30,Home,Southgate W2,Old Cranleighan W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-03-29,Southgate Hockey Centre Pitch 1,15:30,Away,Old Cranleighan W1,Southgate W2,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-04-05,Old Cranleighan Sports Club,11:30,Home,Old Cranleighan W1,Wanderers W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-04-05,Old Cranleighan Sports Club,11:30,Away,Wanderers W1,Old Cranleighan W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-04-05,Paddington Recreation Ground,12:00,Home,Hampstead & Westminster W3,London Wayfarers W2,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-04-05,Paddington Recreation Ground,12:00,Away,London Wayfarers W2,Hampstead & Westminster W3,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-04-05,Dulwich College - Pitch 1,12:15,Home,Tulse Hill & Dulwich W1,West Hampstead W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-04-05,Dulwich College - Pitch 1,12:15,Away,West Hampstead W1,Tulse Hill & Dulwich W1,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-04-05,Dukes Meadow pitch,13:00,Home,Barnes W2,Surbiton W3,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-04-05,Dukes Meadow pitch,13:00,Away,Surbiton W3,Barnes W2,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-04-05,Surbiton HC - Pitch 1,14:30,Home,Surbiton Sparks,Southgate W2,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-04-05,Surbiton HC - Pitch 1,14:30,Away,Southgate W2,Surbiton Sparks,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-04-05,Latymer Upper School,14:30,Home,PHC Chiswick W1,Wimbledon W3,,,Upcoming
+2024-2025,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2025-04-05,Latymer Upper School,14:30,Away,Wimbledon W3,PHC Chiswick W1,,,Upcoming
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-04-06,Raynes Park High School,Completed,Home,Wimbledon W3,Wapping W1,2.0,5.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-04-06,Raynes Park High School,Completed,Away,Wapping W1,Wimbledon W3,5.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-04-06,Dulwich College - Pitch 1,Completed,Home,Tulse Hill & Dulwich W1,West Herts W1,2.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-04-06,Dulwich College - Pitch 1,Completed,Away,West Herts W1,Tulse Hill & Dulwich W1,0.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-04-06,Paddington Recreation Ground,Completed,Home,Hampstead & Westminster W3,Southgate W2,3.0,5.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-04-06,Paddington Recreation Ground,Completed,Away,Southgate W2,Hampstead & Westminster W3,5.0,3.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-04-06,Latymer Upper School,Completed,Home,PHC Chiswick W1,Barnes W2,2.0,6.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-04-06,Latymer Upper School,Completed,Away,Barnes W2,PHC Chiswick W1,6.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-04-06,Battersea Park - Far Pitch,Completed,Home,Wanderers W1,Surbiton Sparks,2.0,7.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-04-06,Battersea Park - Far Pitch,Completed,Away,Surbiton Sparks,Wanderers W1,7.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-04-06,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,London Wayfarers W2,1.0,5.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-04-06,Old Cranleighan Sports Club,Completed,Away,London Wayfarers W2,Old Cranleighan W1,5.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-23,Raynes Park High School,Completed,Home,Wimbledon W3,Barnes W2,2.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-23,Raynes Park High School,Completed,Away,Barnes W2,Wimbledon W3,3.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-23,Dulwich College - Pitch 1,Completed,Home,Tulse Hill & Dulwich W1,Surbiton Sparks,0.0,0.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-23,Dulwich College - Pitch 1,Completed,Away,Surbiton Sparks,Tulse Hill & Dulwich W1,0.0,0.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-23,Battersea Park - Far Pitch,Completed,Home,Wanderers W1,Wapping W1,0.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-23,Battersea Park - Far Pitch,Completed,Away,Wapping W1,Wanderers W1,2.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-23,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,Hampstead & Westminster W3,2.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-23,Old Cranleighan Sports Club,Completed,Away,Hampstead & Westminster W3,Old Cranleighan W1,3.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-23,Latymer Upper School,Completed,Home,PHC Chiswick W1,Southgate W2,0.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-23,Latymer Upper School,Completed,Away,Southgate W2,PHC Chiswick W1,2.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-23,Bank of England Sports Centre,Completed,Home,London Wayfarers W2,West Herts W1,4.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-23,Bank of England Sports Centre,Completed,Away,West Herts W1,London Wayfarers W2,0.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-30,Paddington Recreation Ground,Completed,Home,Hampstead & Westminster W3,PHC Chiswick W1,3.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-30,Paddington Recreation Ground,Completed,Away,PHC Chiswick W1,Hampstead & Westminster W3,2.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-30,Dukes Meadow pitch,Completed,Home,Barnes W2,Wanderers W1,3.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-30,Dukes Meadow pitch,Completed,Away,Wanderers W1,Barnes W2,1.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-30,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,Wimbledon W3,2.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-30,Southgate Hockey Centre Pitch 1,Completed,Away,Wimbledon W3,Southgate W2,1.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-30,New Field,Completed,Home,West Herts W1,Old Cranleighan W1,1.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-30,New Field,Completed,Away,Old Cranleighan W1,West Herts W1,3.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-30,Surbiton HC - Pitch 2,Completed,Home,Surbiton Sparks,London Wayfarers W2,3.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-30,Surbiton HC - Pitch 2,Completed,Away,London Wayfarers W2,Surbiton Sparks,1.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-30,Lee Valley Hockey and Tennis Centre - Pitch 1,Completed,Home,Wapping W1,Tulse Hill & Dulwich W1,1.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-09-30,Lee Valley Hockey and Tennis Centre - Pitch 1,Completed,Away,Tulse Hill & Dulwich W1,Wapping W1,0.0,1.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-07,Raynes Park High School,Completed,Home,Wimbledon W3,Hampstead & Westminster W3,2.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-07,Raynes Park High School,Completed,Away,Hampstead & Westminster W3,Wimbledon W3,1.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-07,Liverpool Victoria Sports Ground,Completed,Home,PHC Chiswick W1,Old Cranleighan W1,2.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-07,Liverpool Victoria Sports Ground,Completed,Away,Old Cranleighan W1,PHC Chiswick W1,1.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-07,Dulwich College - Pitch 1,Completed,Home,Tulse Hill & Dulwich W1,Barnes W2,2.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-07,Dulwich College - Pitch 1,Completed,Away,Barnes W2,Tulse Hill & Dulwich W1,3.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-07,New Field,Completed,Home,West Herts W1,Surbiton Sparks,1.0,7.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-07,New Field,Completed,Away,Surbiton Sparks,West Herts W1,7.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-07,Battersea Park - Far Pitch,Completed,Home,Wanderers W1,Southgate W2,1.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-07,Battersea Park - Far Pitch,Completed,Away,Southgate W2,Wanderers W1,2.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-07,Kings House Sports Ground,Completed,Home,London Wayfarers W2,Wapping W1,0.0,1.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-07,Kings House Sports Ground,Completed,Away,Wapping W1,London Wayfarers W2,1.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-14,Lee Valley Hockey and Tennis Centre - Pitch 2,Completed,Home,Wapping W1,West Herts W1,7.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-14,Lee Valley Hockey and Tennis Centre - Pitch 2,Completed,Away,West Herts W1,Wapping W1,0.0,7.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-14,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,Tulse Hill & Dulwich W1,1.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-14,Southgate Hockey Centre Pitch 1,Completed,Away,Tulse Hill & Dulwich W1,Southgate W2,0.0,1.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-14,Liverpool Victoria Sports Ground,Completed,Home,PHC Chiswick W1,Wimbledon W3,3.0,3.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-14,Liverpool Victoria Sports Ground,Completed,Away,Wimbledon W3,PHC Chiswick W1,3.0,3.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-14,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,Surbiton Sparks,1.0,5.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-14,Old Cranleighan Sports Club,Completed,Away,Surbiton Sparks,Old Cranleighan W1,5.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-14,Dukes Meadow pitch,Completed,Home,Barnes W2,London Wayfarers W2,3.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-14,Dukes Meadow pitch,Completed,Away,London Wayfarers W2,Barnes W2,2.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-14,Mill Hill School,Completed,Home,Hampstead & Westminster W3,Wanderers W1,2.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-14,Mill Hill School,Completed,Away,Wanderers W1,Hampstead & Westminster W3,1.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-21,Dulwich College - Pitch 1,Completed,Home,Tulse Hill & Dulwich W1,Hampstead & Westminster W3,4.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-21,Dulwich College - Pitch 1,Completed,Away,Hampstead & Westminster W3,Tulse Hill & Dulwich W1,1.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-21,Raynes Park High School,Completed,Home,Wimbledon W3,Old Cranleighan W1,2.0,2.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-21,Raynes Park High School,Completed,Away,Old Cranleighan W1,Wimbledon W3,2.0,2.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-21,Surbiton HC - Pitch 2,Completed,Home,Surbiton Sparks,Wapping W1,3.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-21,Surbiton HC - Pitch 2,Completed,Away,Wapping W1,Surbiton Sparks,4.0,3.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-21,New Field,Completed,Home,West Herts W1,Barnes W2,0.0,5.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-21,New Field,Completed,Away,Barnes W2,West Herts W1,5.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-21,Battersea Park - Far Pitch,Completed,Home,Wanderers W1,PHC Chiswick W1,2.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-21,Battersea Park - Far Pitch,Completed,Away,PHC Chiswick W1,Wanderers W1,0.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-28,Kings House Sports Ground,Completed,Home,London Wayfarers W2,Southgate W2,2.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-10-28,Kings House Sports Ground,Completed,Away,Southgate W2,London Wayfarers W2,0.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-04,Paddington Recreation Ground,Completed,Home,Hampstead & Westminster W3,London Wayfarers W2,0.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-04,Paddington Recreation Ground,Completed,Away,London Wayfarers W2,Hampstead & Westminster W3,4.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-04,Liverpool Victoria Sports Ground,Completed,Home,PHC Chiswick W1,Tulse Hill & Dulwich W1,0.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-04,Liverpool Victoria Sports Ground,Completed,Away,Tulse Hill & Dulwich W1,PHC Chiswick W1,4.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-04,Raynes Park High School,Completed,Home,Wimbledon W3,Wanderers W1,1.0,5.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-04,Raynes Park High School,Completed,Away,Wanderers W1,Wimbledon W3,5.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-04,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,West Herts W1,3.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-04,Southgate Hockey Centre Pitch 1,Completed,Away,West Herts W1,Southgate W2,0.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-04,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,Wapping W1,0.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-04,Old Cranleighan Sports Club,Completed,Away,Wapping W1,Old Cranleighan W1,2.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-04,Dukes Meadow pitch,Completed,Home,Barnes W2,Surbiton Sparks,0.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-04,Dukes Meadow pitch,Completed,Away,Surbiton Sparks,Barnes W2,2.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-11,Battersea Park - Far Pitch,Completed,Home,Wanderers W1,Old Cranleighan W1,1.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-11,Battersea Park - Far Pitch,Completed,Away,Old Cranleighan W1,Wanderers W1,0.0,1.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-11,Kings House Sports Ground,Completed,Home,London Wayfarers W2,PHC Chiswick W1,1.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-11,Kings House Sports Ground,Completed,Away,PHC Chiswick W1,London Wayfarers W2,0.0,1.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-11,New Field,Completed,Home,West Herts W1,Hampstead & Westminster W3,2.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-11,New Field,Completed,Away,Hampstead & Westminster W3,West Herts W1,1.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-11,Dulwich College - Pitch 1,Completed,Home,Tulse Hill & Dulwich W1,Wimbledon W3,3.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-11,Dulwich College - Pitch 1,Completed,Away,Wimbledon W3,Tulse Hill & Dulwich W1,1.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-11,Surbiton HC - Pitch 2,Completed,Home,Surbiton Sparks,Southgate W2,1.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-11,Surbiton HC - Pitch 2,Completed,Away,Southgate W2,Surbiton Sparks,0.0,1.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-11,Lee Valley Hockey and Tennis Centre - Pitch 1,Completed,Home,Wapping W1,Barnes W2,2.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-11,Lee Valley Hockey and Tennis Centre - Pitch 1,Completed,Away,Barnes W2,Wapping W1,1.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-18,Raynes Park High School,Completed,Home,Wimbledon W3,London Wayfarers W2,2.0,7.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-18,Raynes Park High School,Completed,Away,London Wayfarers W2,Wimbledon W3,7.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-18,Liverpool Victoria Sports Ground,Completed,Home,PHC Chiswick W1,West Herts W1,2.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-18,Liverpool Victoria Sports Ground,Completed,Away,West Herts W1,PHC Chiswick W1,0.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-18,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,Wapping W1,0.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-18,Southgate Hockey Centre Pitch 1,Completed,Away,Wapping W1,Southgate W2,2.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-18,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,Barnes W2,0.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-18,Old Cranleighan Sports Club,Completed,Away,Barnes W2,Old Cranleighan W1,4.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-18,Mill Hill School,Completed,Home,Hampstead & Westminster W3,Surbiton Sparks,2.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-18,Mill Hill School,Completed,Away,Surbiton Sparks,Hampstead & Westminster W3,4.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-18,Battersea Park - Far Pitch,Completed,Home,Wanderers W1,Tulse Hill & Dulwich W1,0.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-18,Battersea Park - Far Pitch,Completed,Away,Tulse Hill & Dulwich W1,Wanderers W1,2.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-25,Lee Valley Hockey and Tennis Centre - Pitch 2,Completed,Home,Wapping W1,Hampstead & Westminster W3,4.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-25,Lee Valley Hockey and Tennis Centre - Pitch 2,Completed,Away,Hampstead & Westminster W3,Wapping W1,1.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-25,Kings House Sports Ground,Completed,Home,London Wayfarers W2,Wanderers W1,3.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-25,Kings House Sports Ground,Completed,Away,Wanderers W1,London Wayfarers W2,0.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-25,New Field,Completed,Home,West Herts W1,Wimbledon W3,0.0,5.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-25,New Field,Completed,Away,Wimbledon W3,West Herts W1,5.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-25,Dulwich College - Pitch 1,Completed,Home,Tulse Hill & Dulwich W1,Old Cranleighan W1,2.0,2.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-25,Dulwich College - Pitch 1,Completed,Away,Old Cranleighan W1,Tulse Hill & Dulwich W1,2.0,2.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-25,Surbiton HC - Pitch 1,Completed,Home,Surbiton Sparks,PHC Chiswick W1,1.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-11-25,Surbiton HC - Pitch 1,Completed,Away,PHC Chiswick W1,Surbiton Sparks,0.0,1.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-12-02,Dulwich College - Pitch 1,Completed,Home,Tulse Hill & Dulwich W1,London Wayfarers W2,1.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-12-02,Dulwich College - Pitch 1,Completed,Away,London Wayfarers W2,Tulse Hill & Dulwich W1,0.0,1.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-12-09,Dukes Meadow pitch,Completed,Home,Barnes W2,PHC Chiswick W1,5.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-12-09,Dukes Meadow pitch,Completed,Away,PHC Chiswick W1,Barnes W2,2.0,5.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-12-09,Kings House Sports Ground,Completed,Home,London Wayfarers W2,Old Cranleighan W1,3.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-12-09,Kings House Sports Ground,Completed,Away,Old Cranleighan W1,London Wayfarers W2,1.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-12-09,New Field,Completed,Home,West Herts W1,Tulse Hill & Dulwich W1,2.0,5.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-12-09,New Field,Completed,Away,Tulse Hill & Dulwich W1,West Herts W1,5.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-12-09,Lee Valley Hockey and Tennis Centre - Pitch 1,Completed,Home,Wapping W1,Wimbledon W3,6.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-12-09,Lee Valley Hockey and Tennis Centre - Pitch 1,Completed,Away,Wimbledon W3,Wapping W1,0.0,6.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-12-09,Surbiton HC - Pitch 1,Completed,Home,Surbiton Sparks,Wanderers W1,3.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-12-09,Surbiton HC - Pitch 1,Completed,Away,Wanderers W1,Surbiton Sparks,0.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-12-09,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,Hampstead & Westminster W3,4.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2023-12-09,Southgate Hockey Centre Pitch 1,Completed,Away,Hampstead & Westminster W3,Southgate W2,0.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-06,Liverpool Victoria Sports Ground,Completed,Home,PHC Chiswick W1,Wapping W1,2.0,2.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-06,Liverpool Victoria Sports Ground,Completed,Away,Wapping W1,PHC Chiswick W1,2.0,2.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-06,Dukes Meadow pitch,Completed,Home,Barnes W2,Southgate W2,4.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-06,Dukes Meadow pitch,Completed,Away,Southgate W2,Barnes W2,2.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-06,Battersea Park - Far Pitch,Completed,Home,Wanderers W1,West Herts W1,3.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-06,Battersea Park - Far Pitch,Completed,Away,West Herts W1,Wanderers W1,2.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-07,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,Southgate W2,0.0,1.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-07,Old Cranleighan Sports Club,Completed,Away,Southgate W2,Old Cranleighan W1,1.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-13,Paddington Recreation Ground,Completed,Home,Hampstead & Westminster W3,Old Cranleighan W1,2.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-13,Paddington Recreation Ground,Completed,Away,Old Cranleighan W1,Hampstead & Westminster W3,4.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-13,New Field,Completed,Home,West Herts W1,London Wayfarers W2,2.0,2.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-13,New Field,Completed,Away,London Wayfarers W2,West Herts W1,2.0,2.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-13,Surbiton HC - Pitch 1,Completed,Home,Surbiton Sparks,Tulse Hill & Dulwich W1,1.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-13,Surbiton HC - Pitch 1,Completed,Away,Tulse Hill & Dulwich W1,Surbiton Sparks,2.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-13,Lee Valley Hockey and Tennis Centre - Pitch 1,Completed,Home,Wapping W1,Wanderers W1,2.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-13,Lee Valley Hockey and Tennis Centre - Pitch 1,Completed,Away,Wanderers W1,Wapping W1,0.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-13,Dukes Meadow pitch,Completed,Home,Barnes W2,Wimbledon W3,5.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-13,Dukes Meadow pitch,Completed,Away,Wimbledon W3,Barnes W2,1.0,5.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-13,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,PHC Chiswick W1,2.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-13,Southgate Hockey Centre Pitch 1,Completed,Away,PHC Chiswick W1,Southgate W2,0.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-20,Battersea Park - Far Pitch,Completed,Home,Wanderers W1,Barnes W2,2.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-20,Battersea Park - Far Pitch,Completed,Away,Barnes W2,Wanderers W1,4.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-20,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,West Herts W1,0.0,1.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-20,Old Cranleighan Sports Club,Completed,Away,West Herts W1,Old Cranleighan W1,1.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-20,Latymer Upper School,Completed,Home,PHC Chiswick W1,Hampstead & Westminster W3,1.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-20,Latymer Upper School,Completed,Away,Hampstead & Westminster W3,PHC Chiswick W1,2.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-20,Kings House Sports Ground,Completed,Home,London Wayfarers W2,Surbiton Sparks,3.0,3.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-20,Kings House Sports Ground,Completed,Away,Surbiton Sparks,London Wayfarers W2,3.0,3.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-20,Alleyns School,Completed,Home,Tulse Hill & Dulwich W1,Wapping W1,0.0,1.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-20,Alleyns School,Completed,Away,Wapping W1,Tulse Hill & Dulwich W1,1.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-22,KCS - Pavilion - Pitch 2,Completed,Home,Wimbledon W3,Surbiton Sparks,1.0,6.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-22,KCS - Pavilion - Pitch 2,Completed,Away,Surbiton Sparks,Wimbledon W3,6.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-27,Lee Valley Hockey and Tennis Centre - Pitch 2,Completed,Home,Wapping W1,London Wayfarers W2,0.0,0.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-27,Lee Valley Hockey and Tennis Centre - Pitch 2,Completed,Away,London Wayfarers W2,Wapping W1,0.0,0.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-27,Paddington Recreation Ground,Completed,Home,Hampstead & Westminster W3,Wimbledon W3,2.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-27,Paddington Recreation Ground,Completed,Away,Wimbledon W3,Hampstead & Westminster W3,4.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-27,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,Wanderers W1,2.0,2.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-27,Southgate Hockey Centre Pitch 1,Completed,Away,Wanderers W1,Southgate W2,2.0,2.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-27,Dukes Meadow pitch,Completed,Home,Barnes W2,Tulse Hill & Dulwich W1,3.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-27,Dukes Meadow pitch,Completed,Away,Tulse Hill & Dulwich W1,Barnes W2,1.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-27,Surbiton HC - Pitch 2,Completed,Home,Surbiton Sparks,West Herts W1,10.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-27,Surbiton HC - Pitch 2,Completed,Away,West Herts W1,Surbiton Sparks,0.0,10.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-27,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,PHC Chiswick W1,2.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-27,Old Cranleighan Sports Club,Completed,Away,PHC Chiswick W1,Old Cranleighan W1,0.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-31,Dukes Meadow pitch,Completed,Home,Barnes W2,Hampstead & Westminster W3,5.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-01-31,Dukes Meadow pitch,Completed,Away,Hampstead & Westminster W3,Barnes W2,1.0,5.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-03,Raynes Park High School,Completed,Home,Wimbledon W3,PHC Chiswick W1,2.0,2.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-03,Raynes Park High School,Completed,Away,PHC Chiswick W1,Wimbledon W3,2.0,2.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-03,Surbiton HC - Pitch 1,Completed,Home,Surbiton Sparks,Old Cranleighan W1,4.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-03,Surbiton HC - Pitch 1,Completed,Away,Old Cranleighan W1,Surbiton Sparks,1.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-03,New Field,Completed,Home,West Herts W1,Wapping W1,0.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-03,New Field,Completed,Away,Wapping W1,West Herts W1,4.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-03,Kennington Park,Completed,Home,Wanderers W1,Hampstead & Westminster W3,0.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-03,Kennington Park,Completed,Away,Hampstead & Westminster W3,Wanderers W1,2.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-03,Alleyns School,Completed,Home,Tulse Hill & Dulwich W1,Southgate W2,2.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-03,Alleyns School,Completed,Away,Southgate W2,Tulse Hill & Dulwich W1,1.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-03,Kings House Sports Ground,Completed,Home,London Wayfarers W2,Barnes W2,1.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-03,Kings House Sports Ground,Completed,Away,Barnes W2,London Wayfarers W2,2.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-10,Mill Hill School,Completed,Home,Hampstead & Westminster W3,Tulse Hill & Dulwich W1,2.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-10,Mill Hill School,Completed,Away,Tulse Hill & Dulwich W1,Hampstead & Westminster W3,4.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-10,Dukes Meadow pitch,Completed,Home,Barnes W2,West Herts W1,5.0,3.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-10,Dukes Meadow pitch,Completed,Away,West Herts W1,Barnes W2,3.0,5.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-10,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,London Wayfarers W2,2.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-10,Southgate Hockey Centre Pitch 1,Completed,Away,London Wayfarers W2,Southgate W2,0.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-10,Latymer Upper School,Completed,Home,PHC Chiswick W1,Wanderers W1,2.0,2.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-10,Latymer Upper School,Completed,Away,Wanderers W1,PHC Chiswick W1,2.0,2.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-10,Lee Valley Hockey and Tennis Centre - Pitch 1,Completed,Home,Wapping W1,Surbiton Sparks,1.0,1.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-10,Lee Valley Hockey and Tennis Centre - Pitch 1,Completed,Away,Surbiton Sparks,Wapping W1,1.0,1.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-10,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,Wimbledon W3,3.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-10,Old Cranleighan Sports Club,Completed,Away,Wimbledon W3,Old Cranleighan W1,1.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-17,Raynes Park High School,Completed,Home,Wimbledon W3,Southgate W2,0.0,9.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-17,Raynes Park High School,Completed,Away,Southgate W2,Wimbledon W3,9.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-24,Lee Valley Hockey and Tennis Centre - Pitch 2,Completed,Home,Wapping W1,Old Cranleighan W1,1.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-24,Lee Valley Hockey and Tennis Centre - Pitch 2,Completed,Away,Old Cranleighan W1,Wapping W1,0.0,1.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-24,Kennington Park,Completed,Home,Wanderers W1,Wimbledon W3,2.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-24,Kennington Park,Completed,Away,Wimbledon W3,Wanderers W1,3.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-24,Surbiton HC - Pitch 1,Completed,Home,Surbiton Sparks,Barnes W2,2.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-24,Surbiton HC - Pitch 1,Completed,Away,Barnes W2,Surbiton Sparks,1.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-24,New Field,Completed,Home,West Herts W1,Southgate W2,0.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-24,New Field,Completed,Away,Southgate W2,West Herts W1,4.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-24,Alleyns School,Completed,Home,Tulse Hill & Dulwich W1,PHC Chiswick W1,4.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-24,Alleyns School,Completed,Away,PHC Chiswick W1,Tulse Hill & Dulwich W1,1.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-24,Kings House Sports Ground,Completed,Home,London Wayfarers W2,Hampstead & Westminster W3,4.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-02-24,Kings House Sports Ground,Completed,Away,Hampstead & Westminster W3,London Wayfarers W2,1.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-02,Raynes Park High School,Completed,Home,Wimbledon W3,Tulse Hill & Dulwich W1,1.0,1.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-02,Raynes Park High School,Completed,Away,Tulse Hill & Dulwich W1,Wimbledon W3,1.0,1.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-02,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,Surbiton Sparks,1.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-02,Southgate Hockey Centre Pitch 1,Completed,Away,Surbiton Sparks,Southgate W2,2.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-02,Dukes Meadow pitch,Completed,Home,Barnes W2,Wapping W1,1.0,1.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-02,Dukes Meadow pitch,Completed,Away,Wapping W1,Barnes W2,1.0,1.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-02,Mill Hill School,Completed,Home,Hampstead & Westminster W3,West Herts W1,4.0,4.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-02,Mill Hill School,Completed,Away,West Herts W1,Hampstead & Westminster W3,4.0,4.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-02,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,Wanderers W1,0.0,1.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-02,Old Cranleighan Sports Club,Completed,Away,Wanderers W1,Old Cranleighan W1,1.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-02,Latymer Upper School,Completed,Home,PHC Chiswick W1,London Wayfarers W2,1.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-02,Latymer Upper School,Completed,Away,London Wayfarers W2,PHC Chiswick W1,3.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-09,New Field,Completed,Home,West Herts W1,PHC Chiswick W1,0.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-09,New Field,Completed,Away,PHC Chiswick W1,West Herts W1,2.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-09,Surbiton HC - Pitch 2,Completed,Home,Surbiton Sparks,Hampstead & Westminster W3,4.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-09,Surbiton HC - Pitch 2,Completed,Away,Hampstead & Westminster W3,Surbiton Sparks,0.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-09,Lee Valley Hockey and Tennis Centre - Pitch 1,Completed,Home,Wapping W1,Southgate W2,1.0,1.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-09,Lee Valley Hockey and Tennis Centre - Pitch 1,Completed,Away,Southgate W2,Wapping W1,1.0,1.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-09,Dukes Meadow pitch,Completed,Home,Barnes W2,Old Cranleighan W1,3.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-09,Dukes Meadow pitch,Completed,Away,Old Cranleighan W1,Barnes W2,2.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-09,Alleyns School,Completed,Home,Tulse Hill & Dulwich W1,Wanderers W1,4.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-09,Alleyns School,Completed,Away,Wanderers W1,Tulse Hill & Dulwich W1,1.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-09,Kings House Sports Ground,Completed,Home,London Wayfarers W2,Wimbledon W3,3.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-09,Kings House Sports Ground,Completed,Away,Wimbledon W3,London Wayfarers W2,2.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-16,Raynes Park High School,Completed,Home,Wimbledon W3,West Herts W1,1.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-16,Raynes Park High School,Completed,Away,West Herts W1,Wimbledon W3,2.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-16,Paddington Recreation Ground,Completed,Home,Hampstead & Westminster W3,Wapping W1,0.0,5.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-16,Paddington Recreation Ground,Completed,Away,Wapping W1,Hampstead & Westminster W3,5.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-16,Kennington Park,Completed,Home,Wanderers W1,London Wayfarers W2,1.0,3.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-16,Kennington Park,Completed,Away,London Wayfarers W2,Wanderers W1,3.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-16,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,Barnes W2,3.0,3.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-16,Southgate Hockey Centre Pitch 1,Completed,Away,Barnes W2,Southgate W2,3.0,3.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-16,Old Cranleighan Sports Club,Completed,Home,Old Cranleighan W1,Tulse Hill & Dulwich W1,1.0,1.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-16,Old Cranleighan Sports Club,Completed,Away,Tulse Hill & Dulwich W1,Old Cranleighan W1,1.0,1.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-16,Latymer Upper School,Completed,Home,PHC Chiswick W1,Surbiton Sparks,2.0,2.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-16,Latymer Upper School,Completed,Away,Surbiton Sparks,PHC Chiswick W1,2.0,2.0,Draw
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-23,Kings House Sports Ground,Completed,Home,London Wayfarers W2,Tulse Hill & Dulwich W1,2.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-23,Kings House Sports Ground,Completed,Away,Tulse Hill & Dulwich W1,London Wayfarers W2,1.0,2.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-23,Paddington Recreation Ground,Completed,Home,Hampstead & Westminster W3,Barnes W2,2.0,7.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-23,Paddington Recreation Ground,Completed,Away,Barnes W2,Hampstead & Westminster W3,7.0,2.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-23,New Field,Completed,Home,West Herts W1,Wanderers W1,0.0,1.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-23,New Field,Completed,Away,Wanderers W1,West Herts W1,1.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-23,Surbiton HC - Pitch 1,Completed,Home,Surbiton Sparks,Wimbledon W3,4.0,1.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-23,Surbiton HC - Pitch 1,Completed,Away,Wimbledon W3,Surbiton Sparks,1.0,4.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-23,Lee Valley Hockey and Tennis Centre - Pitch 1,Completed,Home,Wapping W1,PHC Chiswick W1,0.0,1.0,Loss
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-23,Lee Valley Hockey and Tennis Centre - Pitch 1,Completed,Away,PHC Chiswick W1,Wapping W1,1.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-23,Southgate Hockey Centre Pitch 1,Completed,Home,Southgate W2,Old Cranleighan W1,3.0,0.0,Win
+2023-2024,LONDON HOCKEY LEAGUE WOMENS,London Women's Premier Division,2024-03-23,Southgate Hockey Centre Pitch 1,Completed,Away,Old Cranleighan W1,Southgate W2,0.0,3.0,Loss
