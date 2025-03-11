@@ -4,12 +4,12 @@
   ### Before and After Comparison
   
   
-  ### England Hockey Website (Original)
+  ### [England Hockey Website (Original)](https://london.englandhockey.co.uk/competitions/2024-2025-4477305-london-hockey-league-womens-4477409-london-womens-premier-division/fixtures?match-day=2025-03-08&season=14edd6a1-2d0e-447a-8550-68b42882e46d&competition-group=30df1a93-543a-4352-a493-72e5ae8c102d&competition=a91902a0-70f5-4edb-8f50-0eba140e972f)
 
   <img src="https://github.com/user-attachments/assets/ca89845f-450b-4b28-8cad-be646eacd845" width="400" alt="Screenshot">
     <img src="https://github.com/user-attachments/assets/12821653-ae99-4c8a-a5ec-0e390d83e8c7" width="400" alt="Screenshot">
 
-  ### Custom Tableau Dashboard
+  ### [Tableau Dashboard](https://public.tableau.com/app/profile/valerie.madojemu/viz/HamsteadWestminsterResultsandFixtures/FixturesResults)
   
   <img src="https://github.com/user-attachments/assets/cd3d1c2f-6814-41a4-bd2e-9f52d606201a" width="400" alt="Screenshot">
     <img src="https://github.com/user-attachments/assets/4ec8dc7f-ba29-4f12-b6d4-17139408fc06" width="400" alt="Screenshot">
@@ -76,8 +76,8 @@
   
   The first challenge was extracting data from the England Hockey website, where content is loaded dynamically via JavaScript. I created two Python scripts:
   
-  - **hockey_fixture_scraper.py**: Extracts fixtures and results data
-  - **hockey_league_scraper.py**: Extracts league standings data
+  - **[hockey_fixture_scraper.py](https://github.com/Mad4Viz/Hockey_Fixtures_and_Results_2024-2025/blob/main/hockey_fixture_scraper.py)**: Extracts fixtures and results data
+  - **[hockey_league_scraper.py](https://github.com/Mad4Viz/Hockey_Fixtures_and_Results_2024-2025/blob/main/hockey_league_scraper.py)**: Extracts league standings data
   
   These scripts use Selenium to automate browser interactions, allowing them to:
   
@@ -90,7 +90,7 @@
   
   ### 2. Data Transformation - Pivoting
   
-  After acquiring the raw data, I created **Hockey_Fixture_Pivot.py** to transform the match-centric data into a team-centric format. This script:
+  After acquiring the raw data, I created **[Hockey_Fixture_Pivot.py](https://github.com/Mad4Viz/Hockey_Fixtures_and_Results_2024-2025/blob/main/Hockey_Fixture_Pivot.py)** to transform the match-centric data into a team-centric format. This script:
   
   - Takes the original fixtures data (1 row per match)
   - Creates two rows per match (one from each team's perspective)
@@ -112,7 +112,7 @@
   
   This pivoted structure enables team-focused analysis regardless of whether a team played at home or away.
   
-  ### 3. Data Visualisation - Tableau Dashboard
+  ### [3. Data Visualisation - Tableau Dashboard](https://public.tableau.com/app/profile/valerie.madojemu/viz/HamsteadWestminsterResultsandFixtures/FixturesResults)
   
   The final component is a Tableau dashboard that leverages the transformed data structure to provide comprehensive team analysis. The dashboard includes:
   
@@ -224,7 +224,7 @@
   
   ```
   
-  ### Dashboard Design Process
+  ### [Dashboard Design Process](https://public.tableau.com/app/profile/valerie.madojemu/viz/HamsteadWestminsterResultsandFixtures/FixturesResults)
   
   The Tableau dashboard was designed with both functionality and aesthetics in mind. The design process included:
   
@@ -249,7 +249,7 @@
   
   ### Dashboard Functionality
   
-  The dashboards delivers an intuitive interface with several connected views:
+  The [Tableau dashboards](https://public.tableau.com/app/profile/valerie.madojemu/viz/HamsteadWestminsterResultsandFixtures/FixturesResults) delivers an intuitive interface with several connected views:
   
   1. **Team Summary Section**:
       - Current league position
